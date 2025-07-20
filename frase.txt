@@ -1,8 +1,0 @@
-1.Nome
-2.CPF
-3.RG
-4.Cidade
-5.UF
-6.Bairro
-
-
